@@ -14,13 +14,11 @@
     "moji-translate": "^1.0.8",
     "telegraf": "^3.38.0"
   },
-  "repository": {
-    "url": "https://glitch.com/edit/#!/hello-express"
-  },
-  "license": "MIT",
+  "license": "GPL-3.0-or-later",
   "keywords": [
     "node",
-    "glitch",
-    "express"
+    "emoji",
+    "shiptoasting",
+    "PT"
   ]
 }

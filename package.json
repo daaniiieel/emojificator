@@ -10,6 +10,7 @@
     "start": "node server.js"
   },
   "dependencies": {
+    "dotenv": "^8.2.0",
     "moji-translate": "^1.0.8",
     "telegraf": "^3.38.0"
   },
